@@ -1,0 +1,4 @@
+pymongo==4.12.1
+certifi==2025.4.26
+pandas==2.2.3
+python-dotenv==1.1.0
